@@ -1,3 +1,3 @@
 # Calculator
 
-A simple calculator written in Python with arithmetic operations, trigonometric functions, and memory operations.
+A simple calculator written in Java with arithmetic operations and memory operations (*WORKING ON IT*).
